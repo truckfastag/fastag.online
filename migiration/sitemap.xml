@@ -6,23 +6,23 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- Hindustan Solutions - wwww.hindustansolutions.com -->
 <url>
-  <loc>https://truckfastag.github.io/fastag.online/</loc>
+  <loc>http://fastag.online/</loc>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://truckfastag.github.io/fastag.online/faq.html</loc>
+  <loc>http://fastag.online/faq.html</loc>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://truckfastag.github.io/fastag.online/index.html</loc>
+  <loc>http://fastag.online/index.html</loc>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://truckfastag.github.io/fastag.online/contact.html</loc>
+  <loc>http://fastag.online/contact.html</loc>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
+  <priority>1.00</priority>
 </url>
 </urlset>
